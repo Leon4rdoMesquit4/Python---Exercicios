@@ -46,3 +46,7 @@ DIGITE O VALOR AQUI: """))
     
 DESEJA REINICIAR O PROGRAMA?
 DIGITE [1] PARA NAO OU DIGITE QUALQUER TECLA PARA CONTINUAR: """)
+
+"""i = "%.2f" % 3.141592653589793
+print(i)"""   # Como limitar casas decimais 
+    
